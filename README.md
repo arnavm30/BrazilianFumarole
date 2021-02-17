@@ -1,2 +1,2 @@
 # BrazilianFumarole
-Essentially a Brainfuck interpreter.
+Essentially a Brainfuck (an esoteric programming language) interpreter.
